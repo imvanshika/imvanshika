@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science , Machine Learning , Python , Frontend Development and Javascript**
 
-- 💬 Ask me about **Data science , Machine Learning and Programming**
+- 💬 Ask me about **Data science , Machine Learning , Programming and Data Structures**
 
 - 📫 How to reach me **vanshikajain591@gmail.com**
 
